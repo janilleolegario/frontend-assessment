@@ -1,12 +1,6 @@
 Janille Rose Olegario
 Front End Assessment
 
-Table of Contents
-About the Project
-Built With
-Getting Started
-Installation
-About The Project
 This project is for an assessment for MindArc.
 
 You will see exercise 1 and 2. I added a data on daja.json and another tab for my answer about banana.
@@ -21,11 +15,7 @@ Fetch data on data.json using jQuery.
 
 To get a copy up and to run the project:
 
-npm
-npm install
-npm start
-
-Clone the repo
+Clone the repo: 
 git clone 
 Install NPM packages
 npm install

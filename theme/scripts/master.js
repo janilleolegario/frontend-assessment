@@ -8,7 +8,7 @@
 
  	var main = {
  		getData: function () {
- 			$.getJSON('../../data.json', { get_param: 'value' }, function(data) {
+ 			$.getJSON('../../data.json', function(data) {
  				var template = '';
  				var tabLink = 1;
 			    $.each(data, function(index, element) {

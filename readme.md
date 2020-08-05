@@ -1,4 +1,4 @@
-Janille Rose Olegario
+Janille Rose Olegario -
 Front End Assessment
 
 This project is for an assessment for MindArc.
@@ -6,7 +6,7 @@ This project is for an assessment for MindArc.
 You will see exercise 1 and 2. I added a data on daja.json and another tab for my answer about banana.
 I wasn't able to finish accordion because I saw my email late and started late and i'm still trying to submit my assessment on time.
 
-I created a new branch name develop for this assessment.
+I created a new branch name called develop for this assessment.
 
 Built With:
 HTML,

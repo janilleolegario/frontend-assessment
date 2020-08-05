@@ -17,6 +17,6 @@
   },
   {
     "title": "Banana",
-    "content": "<p></p>"
+    "content": "<p>The 1st two letters will be concatenated to 'ba' then the next ++'a' will result to NaN or Not a Number then the last 'a' will be concatenated at the end which results to 'baNaNa' and the toLower method returns the result in lower case.</p>"
   }
 ]

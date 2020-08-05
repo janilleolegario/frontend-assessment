@@ -1,0 +1,9 @@
+//Media Queries
+
+@media (min-width: $screen-sm) {
+	@import 'pages/exercise1/exercise1-sm';
+}
+
+@media (min-width: $screen-lg) {
+	@import 'pages/exercise1/exercise1-lg';
+}

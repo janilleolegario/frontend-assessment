@@ -1,40 +1,33 @@
-Introduction
----
-Thanks for taking the time to complete this frontend technical assessment. We will be focusing on software quality (scalability, readability, maintainability, etc.) and your eye for detail. You may include any libraries. Bonus points if SASS/LESS is used and jQuery is not used.
+Janille Rose Olegario
+Front End Assessment
 
-Exercise 1
----
-Build a responsive page based on the designs.
+Table of Contents
+About the Project
+Built With
+Getting Started
+Installation
+About The Project
+This project is for an assessment for MindArc.
 
-##### Requirements
-1. Match the designs exactly.
-2. Needs to be responsive.
+You will see exercise 1 and 2. I added a data on daja.json and another tab for my answer about banana.
+I wasn't able to finish accordion because I saw my email late and started late and i'm still trying to submit my assessment on time.
 
-##### Designs
-* exercise1-desktop.png
-* exercise1-mobile.png
+Built With:
+HTML
+CSS(SASS)
+jQuery
 
-##### Assets
-* Desktop banner - http://via.placeholder.com/1920x650
-* Mobile banner - http://via.placeholder.com/600x600
-* Content images - http://via.placeholder.com/400x300
+Fetch data on data.json using jQuery.
 
-Exercise 2
----
-Read the `data.json` file and display the data as tabs on desktop and an accordion on mobile.
+Getting Started
+To get a copy up and to run the project:
 
-##### Requirements
-1. Display data in tabs on desktop.
-2. Display data in an accordion on mobile.
-3. Only 1 accordion/tab should be open at a time.
-4. Open the first accordion/tab on load.
-5. If the open accordion is selected, close it.
+npm
+npm install
+npm start
 
-###### Bonus points
-* Improve the user experience with meaningful animations/transitions.
-* Design and styling.
-* Explain why the result of `('b' + 'a' + + 'a' + 'a').toLowerCase()` is `banana`.
-
-Submission
----
-We recommend submitting your completed assessment as a forked repository. Please replace README content with instructions and relevant documentation.
+Clone the repo
+git clone 
+Install NPM packages
+npm install
+Run using the npm start

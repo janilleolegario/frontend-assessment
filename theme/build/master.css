@@ -1,0 +1,4 @@
+/*!
+ * [frontend-assessment]
+ * 2020
+ */@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900");*{margin:0;padding:0;box-sizing:border-box;transition:all 0.4s;font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";font-size:13px}html{scroll-behavior:smooth;overflow-x:hidden}main .main-header{width:100%;height:300px;max-height:350px;background-image:url("../images/3.png");background-repeat:no-repeat;background-size:100%}main .main-header .header-title{color:#fff;text-align:center;line-height:1.5;font-size:3.5em}main .main-header{width:100%;height:300px;max-height:350px;background-image:url("../images/3.png");background-repeat:no-repeat;background-size:100%}main .main-header .header-title{color:#fff;text-align:center;line-height:1.5;font-size:3.5em}

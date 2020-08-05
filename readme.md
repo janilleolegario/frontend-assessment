@@ -13,13 +13,12 @@ You will see exercise 1 and 2. I added a data on daja.json and another tab for m
 I wasn't able to finish accordion because I saw my email late and started late and i'm still trying to submit my assessment on time.
 
 Built With:
-HTML
-CSS(SASS)
+HTML,
+CSS(SASS),
 jQuery
 
 Fetch data on data.json using jQuery.
 
-Getting Started
 To get a copy up and to run the project:
 
 npm

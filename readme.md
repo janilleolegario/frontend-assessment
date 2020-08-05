@@ -16,7 +16,8 @@ Fetch data on data.json using jQuery.
 To get a copy up and to run the project:
 
 Clone the repo: https://github.com/janilleolegario/frontend-assessment.git
-git clone 
-Install NPM packages
-npm install
+
+git clone, 
+Install NPM packages,
+npm install and
 Run using the npm start

@@ -1,0 +1,14 @@
+main {
+	.main-header {
+    	background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url(../images/1.png);
+	}
+	section {
+		&.grid-listing {
+			display: flex;
+			margin: 20px auto;
+			.grid {
+				margin: 30px 10px;
+			}
+		}
+	}
+}

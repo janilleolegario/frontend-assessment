@@ -21,7 +21,7 @@ gulp.task('bs-reload', function () {
 });
 
 gulp.task('styles', function(){
-	gulp.src('theme/styles/sass/**/*.scss')
+	gulp.src('theme/styles/sass/*.scss')
 		.pipe(plumber({
 			errorHandler: function (error) {
 				console.log(error.message);
@@ -57,3 +57,5 @@ gulp.task('default', ['browser-sync'], function(){
 	gulp.watch('theme/scripts/**/*.js', ['scripts']);
 	gulp.watch(['**/*.html', '!node_modules'], ['bs-reload']);
 });
+
+
